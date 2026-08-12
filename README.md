@@ -24,4 +24,12 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/2k25csai2513893-source/dsa/tree/master/0342-power-of-four) |
+## Array
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/2k25csai2513893-source/dsa/tree/master/1207-unique-number-of-occurrences) |
+## Hash Table
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/2k25csai2513893-source/dsa/tree/master/1207-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
