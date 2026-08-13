@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/2k25csai2513893-source/dsa/tree/master/1207-unique-number-of-occurrences) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/2k25csai2513893-source/dsa/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,9 @@
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/2k25csai2513893-source/dsa/tree/master/1323-maximum-69-number) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/2k25csai2513893-source/dsa/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+## Matrix
+|  |
+| ------- |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/2k25csai2513893-source/dsa/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 <!---LeetCode Topics End-->
