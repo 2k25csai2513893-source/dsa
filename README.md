@@ -11,6 +11,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/2k25csai2513893-source/dsa/tree/master/0069-sqrtx) |
 | [0410-split-array-largest-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/2k25csai2513893-source/dsa/tree/master/0875-koko-eating-bananas) |
@@ -35,6 +36,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/2k25csai2513893-source/dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2k25csai2513893-source/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/0410-split-array-largest-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
