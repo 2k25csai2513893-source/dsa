@@ -8,6 +8,7 @@
 | [0326-power-of-three](https://github.com/2k25csai2513893-source/dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/2k25csai2513893-source/dsa/tree/master/0342-power-of-four) |
 | [1323-maximum-69-number](https://github.com/2k25csai2513893-source/dsa/tree/master/1323-maximum-69-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/2k25csai2513893-source/dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/2k25csai2513893-source/dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
