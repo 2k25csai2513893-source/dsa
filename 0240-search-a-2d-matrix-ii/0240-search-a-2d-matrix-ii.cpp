@@ -1,32 +1,24 @@
 class Solution {
 public:
-    bool search(vector<int> &vec,int target){
-        int n=vec.size();
-        int low=0;
-        int high=n-1;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(vec[mid]==target){
+    bool searchMatrix(vector<vector<int>>& mat, int target) {
+        int n=mat.size();
+        int m=mat[0].size();
+        int i=0;
+        int j=m-1;
+        while(i<n && j>=0){
+            if(mat[i][j]==target){
                 return true;
             }
             else{
-                if(vec[mid]>target){
-                    high=mid-1;
+                if(mat[i][j]>target){
+                    j--;
                 }
                 else{
-                    low=mid+1;
+                    i++;
                 }
             }
         }
-        return false;
-    }
-    bool searchMatrix(vector<vector<int>>& mat, int target) {
-        int n=mat.size();
-        for(int i=0;i<n;i++){
-            if(search((mat[i]),target)){
-                return true;
-            }
-        }
+
         return false;
     }
 };
