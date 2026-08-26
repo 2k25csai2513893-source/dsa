@@ -46,6 +46,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/2k25csai2513893-source/dsa/tree/master/0875-koko-eating-bananas) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/2k25csai2513893-source/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2k25csai2513893-source/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/2k25csai2513893-source/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/2k25csai2513893-source/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/2k25csai2513893-source/dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/2k25csai2513893-source/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/2k25csai2513893-source/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [2670-find-the-distinct-difference-array](https://github.com/2k25csai2513893-source/dsa/tree/master/2670-find-the-distinct-difference-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/2k25csai2513893-source/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -107,4 +109,8 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/2k25csai2513893-source/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
