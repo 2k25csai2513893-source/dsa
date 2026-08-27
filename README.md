@@ -10,6 +10,7 @@
 | [1323-maximum-69-number](https://github.com/2k25csai2513893-source/dsa/tree/master/1323-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/2k25csai2513893-source/dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/2k25csai2513893-source/dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3959-check-good-integer](https://github.com/2k25csai2513893-source/dsa/tree/master/3959-check-good-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/2k25csai2513893-source/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Simulation
+|  |
+| ------- |
+| [3959-check-good-integer](https://github.com/2k25csai2513893-source/dsa/tree/master/3959-check-good-integer) |
 <!---LeetCode Topics End-->
