@@ -25,6 +25,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/2k25csai2513893-source/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/2k25csai2513893-source/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/2k25csai2513893-source/dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Newton's Method
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/2k25csai2513893-source/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/2k25csai2513893-source/dsa/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/2k25csai2513893-source/dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2670-find-the-distinct-difference-array](https://github.com/2k25csai2513893-source/dsa/tree/master/2670-find-the-distinct-difference-array) |
 | [3151-special-array-i](https://github.com/2k25csai2513893-source/dsa/tree/master/3151-special-array-i) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/2k25csai2513893-source/dsa/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
@@ -83,6 +85,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/2k25csai2513893-source/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2k25csai2513893-source/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/2k25csai2513893-source/dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +103,7 @@
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/2k25csai2513893-source/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/2k25csai2513893-source/dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
