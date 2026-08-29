@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/2k25csai2513893-source/dsa/tree/master/0342-power-of-four) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/2k25csai2513893-source/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/2k25csai2513893-source/dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Array
 |  |
@@ -55,6 +56,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/2k25csai2513893-source/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/2k25csai2513893-source/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/2k25csai2513893-source/dsa/tree/master/1552-magnetic-force-between-two-balls) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/2k25csai2513893-source/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/2k25csai2513893-source/dsa/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/2k25csai2513893-source/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/2k25csai2513893-source/dsa/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -71,6 +73,7 @@
 | [0500-keyboard-row](https://github.com/2k25csai2513893-source/dsa/tree/master/0500-keyboard-row) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/2k25csai2513893-source/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/2k25csai2513893-source/dsa/tree/master/1207-unique-number-of-occurrences) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/2k25csai2513893-source/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2k25csai2513893-source/dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2670-find-the-distinct-difference-array](https://github.com/2k25csai2513893-source/dsa/tree/master/2670-find-the-distinct-difference-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/2k25csai2513893-source/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -129,5 +132,10 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/2k25csai2513893-source/dsa/tree/master/0500-keyboard-row) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/2k25csai2513893-source/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2k25csai2513893-source/dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Counting
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/2k25csai2513893-source/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
