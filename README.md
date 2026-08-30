@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/2k25csai2513893-source/dsa/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/2k25csai2513893-source/dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/2k25csai2513893-source/dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/2k25csai2513893-source/dsa/tree/master/0342-power-of-four) |
 | [1323-maximum-69-number](https://github.com/2k25csai2513893-source/dsa/tree/master/1323-maximum-69-number) |
@@ -33,11 +34,13 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/2k25csai2513893-source/dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/2k25csai2513893-source/dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/2k25csai2513893-source/dsa/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/2k25csai2513893-source/dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/2k25csai2513893-source/dsa/tree/master/0342-power-of-four) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/2k25csai2513893-source/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/2k25csai2513893-source/dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
