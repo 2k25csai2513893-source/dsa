@@ -47,6 +47,7 @@
 | [0260-single-number-iii](https://github.com/2k25csai2513893-source/dsa/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/2k25csai2513893-source/dsa/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2k25csai2513893-source/dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1009-complement-of-base-10-integer](https://github.com/2k25csai2513893-source/dsa/tree/master/1009-complement-of-base-10-integer) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/2k25csai2513893-source/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/2k25csai2513893-source/dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/3370-smallest-number-with-all-set-bits) |
