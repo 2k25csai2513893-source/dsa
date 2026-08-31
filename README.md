@@ -44,6 +44,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/2k25csai2513893-source/dsa/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/2k25csai2513893-source/dsa/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/2k25csai2513893-source/dsa/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2k25csai2513893-source/dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/2k25csai2513893-source/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -57,6 +58,7 @@
 | [0137-single-number-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2k25csai2513893-source/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/2k25csai2513893-source/dsa/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/2k25csai2513893-source/dsa/tree/master/0410-split-array-largest-sum) |
 | [0500-keyboard-row](https://github.com/2k25csai2513893-source/dsa/tree/master/0500-keyboard-row) |
 | [0875-koko-eating-bananas](https://github.com/2k25csai2513893-source/dsa/tree/master/0875-koko-eating-bananas) |
