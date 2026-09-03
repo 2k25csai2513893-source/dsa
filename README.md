@@ -57,6 +57,7 @@
 | [2595-number-of-even-and-odd-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/2k25csai2513893-source/dsa/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/2k25csai2513893-source/dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/2k25csai2513893-source/dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Array
 |  |
@@ -85,6 +86,7 @@
 | [3151-special-array-i](https://github.com/2k25csai2513893-source/dsa/tree/master/3151-special-array-i) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/2k25csai2513893-source/dsa/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/2k25csai2513893-source/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/2k25csai2513893-source/dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/2k25csai2513893-source/dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/2k25csai2513893-source/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/2k25csai2513893-source/dsa/tree/master/3875-construct-uniform-parity-array-i) |
@@ -150,6 +152,7 @@
 ## Simulation
 |  |
 | ------- |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/2k25csai2513893-source/dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3959-check-good-integer](https://github.com/2k25csai2513893-source/dsa/tree/master/3959-check-good-integer) |
 ## String
 |  |
