@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/2k25csai2513893-source/dsa/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/2k25csai2513893-source/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/2k25csai2513893-source/dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/2k25csai2513893-source/dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/2k25csai2513893-source/dsa/tree/master/0342-power-of-four) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/2k25csai2513893-source/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0137-single-number-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/2k25csai2513893-source/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2k25csai2513893-source/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2k25csai2513893-source/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/2k25csai2513893-source/dsa/tree/master/0260-single-number-iii) |
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2k25csai2513893-source/dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/2k25csai2513893-source/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
